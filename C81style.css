@@ -1,0 +1,16 @@
+
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image: url("./material-escolar-organizado-em-forma-circular-sobre-o-fundo-branco_23-2148050638.avif");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#meucanvas{
+background-color: white;
+}
